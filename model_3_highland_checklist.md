@@ -24,14 +24,14 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 ### Panel gaps ###
 > Do a lap of the car, check for any obvious body panel misalignment, or large gaps
 
-- [ ] Front of frunk properly aligns with where it meets the bumper
-- [ ] Trunk arms properly align with where they meet the left and right quarter panels
+- [x] Front of frunk properly aligns with where it meets the bumper
+- [x] Trunk arms properly align with where they meet the left and right quarter panels
 - [ ] Headlights and rear lights are flush with the body
-- [ ] Charging port is flush with the body
-- [ ] Verify the slimmer and sleeker headlight and taillight design
-- [ ] Inspect the new single wing-shaped taillight design for reliability and alignment
-- [ ] Check the TESLA lettering on the rear in place of the Tesla logo badge
-- [ ] Check the redesigned lower rear bumper
+- [x] Charging port is flush with the body
+- [x] Verify the slimmer and sleeker headlight and taillight design
+- [x] Inspect the new single wing-shaped taillight design for reliability and alignment
+- [x] Check the TESLA lettering on the rear in place of the Tesla logo badge
+- [x] Check the redesigned lower rear bumper
 
 ### Paint condition walkaround ###
 > Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
@@ -59,16 +59,16 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Test power liftgate operation on trunk with the new dual motor system
 - [x] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 - [x] Ensure door windows auto-close completely when doors are closed
-- [ ] Check the frunk/trunk lighting
+- [x] Check the frunk/trunk lighting
 - [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
 
 ### Glass and seal condition ###
-- [ ] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
-- [ ] Inspect the weather seals around door gaps and windows
-- [ ] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
-- [ ] Check for proper windshield and windshield trim installation
-- [ ] Inspect all edges of the roof glass panel and rear window
-- [ ] Verify the new "360º acoustic glass" on all windows for improved sound insulation
+- [x] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
+- [x] Inspect the weather seals around door gaps and windows
+- [x] Verify that the water guards that line the trunk (below the rear windshield) are free and clear
+- [x] Check for proper windshield and windshield trim installation
+- [x] Inspect all edges of the roof glass panel and rear window
+- [x] Verify the new "360º acoustic glass" on all windows for improved sound insulation
 
 ## SECTION C - Interior inspection ##
 - [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
@@ -81,7 +81,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Check for any error messages on the display screen
 - [x] Check all four windows to ensure they roll up and down properly
 - [ ] Test the windshield wipers
-- [ ] Test the rearview camera
+- [x] Test the rearview camera
 - [x] Check side mirrors for proper operation of folding and position adjustment
 - [x] Test the steering wheel position controls to ensure proper operation
 - [x] Check the rearview mirror for any warping or distortion
@@ -101,7 +101,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 
 **GET OUT OF THE DRIVER'S SEAT**
 - [ ] Gently test the driver and passenger door emergency releases
-- [ ] Check driver and passenger door puddle lights
+- [x] Check driver and passenger door puddle lights
 - [ ] Check all door latch button lights
 - [ ] Check all door window button lights
 - [ ] Check front, rear and middle seatbelts for proper operation
