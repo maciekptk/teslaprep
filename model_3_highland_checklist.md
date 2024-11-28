@@ -37,30 +37,30 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 > Looking for scrapes, damage, overspray, underspray, dents and dings. Include all trim and door handles as part of this review
 
 **WITH ALL DOORS CLOSED**
-- [ ] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage
-- [ ] Front bumper
-- [ ] Right front quarter panel
-- [ ] Right front wheel
-- [ ] Right passenger door
-- [ ] Right rear door
-- [ ] Right rear wheel
-- [ ] Right rear quarter panel
-- [ ] Trunk
-- [ ] Rear bumper
-- [ ] Left rear quarter panel
-- [ ] Left rear wheel
-- [ ] Left rear door
-- [ ] Driver's door
-- [ ] Left front wheel
-- [ ] Left front quarter panel
-- [ ] Frunk
+- [x] Inspect vehicle underside plastic trim (front and rear) for signs of scraping, or damage
+- [x] Front bumper
+- [x] Right front quarter panel
+- [x] Right front wheel
+- [x] Right passenger door
+- [x] Right rear door
+- [x] Right rear wheel
+- [x] Right rear quarter panel
+- [x] Trunk
+- [x] Rear bumper
+- [x] Left rear quarter panel
+- [x] Left rear wheel
+- [x] Left rear door
+- [x] Driver's door
+- [x] Left front wheel
+- [x] Left front quarter panel
+- [x] Frunk
 
 **OPEN ALL DOORS, INCLUDING FRUNK, TRUNK**
 - [x] Test power liftgate operation on trunk with the new dual motor system
 - [x] Test all doors (including frunk and trunk) to ensure they open and close without unreasonable effort or sound
 - [x] Ensure door windows auto-close completely when doors are closed
 - [x] Check the frunk/trunk lighting
-- [ ] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
+- [x] Check paint in areas such as door hinges, the bottom of the frunk/trunk, etc. that are not visible when doors are closed
 
 ### Glass and seal condition ###
 - [x] Inspect all glass (including side mirrors) for signs of distortion, scratches, or cracks
@@ -71,8 +71,8 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Verify the new "360º acoustic glass" on all windows for improved sound insulation
 
 ## SECTION C - Interior inspection ##
-- [ ] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
-- [ ] Check for the redesigned interior with new door cards and more premium materials
+- [x] Inspect interior seat upholstery, door surfaces, dash, headliner and carpets (including passenger compartment, frunk, and trunk)
+- [x] Check for the redesigned interior with new door cards and more premium materials
 - [x] Verify the new dash design with textured/woven material
 - [x] Inspect the multicolor ambient LED interior lighting extending from dash to rear seat doors
 - [x] Check the updated center console with real metal handles
@@ -100,20 +100,20 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Tap the "Toybox" icon at the bottom right of the screen and launch the Sketchpad app. Leave the Sketchpad up for a minute to make sure there are no phantom touches happening on the display, or dead pixels
 
 **GET OUT OF THE DRIVER'S SEAT**
-- [ ] Gently test the driver and passenger door emergency releases
+- [x] Gently test the driver and passenger door emergency releases
 - [x] Check driver and passenger door puddle lights
-- [ ] Check all door latch button lights
-- [ ] Check all door window button lights
-- [ ] Check front, rear and middle seatbelts for proper operation
-- [ ] Check rear left and right clothing hook operation in the rear passenger area
-- [ ] Check the rear seats for proper fold-down operation
-- [ ] Check rear left and right overhead lights
-- [ ] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
-- [ ] Inspect the 8" touchscreen for rear passengers
-- [ ] Check ventilated front seats
+- [x] Check all door latch button lights
+- [x] Check all door window button lights
+- [x] Check front, rear and middle seatbelts for proper operation
+- [x] Check rear left and right clothing hook operation in the rear passenger area
+- [x] Check the rear seats for proper fold-down operation
+- [x] Check rear left and right overhead lights
+- [x] Test connectivity in all USB ports (1 USB-A/1 USB-C in the front, 2 USB-C in the rear)
+- [x] Inspect the 8" touchscreen for rear passengers
+- [x] Check ventilated front seats
 
 ## SECTION D - Lighting inspection ##
-- [ ] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
+- [x] Front headlights (low and high-beam) operation and alignment. Ensure there is no condensation inside the light's housing
 - [x] Front park lights
 - [x] Verify the removal of fog lights
 
@@ -122,7 +122,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Left and right turn signal lights
 - [x] Rear turn signal lights
 - [x] Rear running lights
-- [ ] Rear brake lights. Ensure there is no condensation inside the light's housing
+- [x] Rear brake lights. Ensure there is no condensation inside the light's housing
 
 ## SECTION E - Charging ability ##
 - [x] Check the charge port door for proper operation and alignment (manual tap, through screen/app, and button on charger)
@@ -133,7 +133,7 @@ This pre-drive checklist is designed to be done in a specific flow to save time 
 - [x] Check for J1772 adapter
 
 ## SECTION F - Inspect pairing connectivity ##
-- [ ] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
+- [x] Test both key cards to ensure they work with your vehicle. Keep one key card on your person in case the phone app does not operate properly
 - [x] Pair your smartphone to your vehicle over Bluetooth
 
 ## SECTION G - Optional equipment ##
